@@ -1,0 +1,24 @@
+{
+  "name": "book-website",
+  "version": "1.0.0",
+  "description": "A website advertising the creation of a book using Bootstrap5",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikramabukar/Book-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikramabukar/Book-Website/issues"
+  },
+  "homepage": "https://github.com/ikramabukar/Book-Website#readme"
+}
